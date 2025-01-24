@@ -9,7 +9,7 @@
 
 | Добавление задачи | Редактирование задачи | Удаление задачи |
 |-------------------|-----------------------|-----------------|
-| ![Add Task](screenshots/screen1.jpg) | ![Edit Task](screenshots/screen2.jpg) | ![Delete Task](screenshots/screen3.jpg) |
+| ![Add Task](screenshots/screen4.jpg) | ![Edit Task](screenshots/screen5.jpg) | ![Delete Task](screenshots/screen6.jpg) |
 
 ## 🚀 Возможности
 
